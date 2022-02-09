@@ -3,7 +3,7 @@
     class calculator
     {
         static void Main(string[] args)
-        { //code starts here
+        { 
             Console.WriteLine("Ingresa un número: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Ingresa un operador:");
